@@ -4,3 +4,15 @@ ___________
 ___________
 
 ### Read the comment in the Class of each project.
+
+___________
+### COMENTS
+
+### MORSE 
+https://github.com/GustavoMariano/Challenges-CSharp/blob/21cb421f6018c0b323a1c9562d46f8800f75d4e3/MorseDecoder/MorseCode.cs#L11
+
+### CSVSort 
+https://github.com/GustavoMariano/Challenges-CSharp/blob/21cb421f6018c0b323a1c9562d46f8800f75d4e3/SortCsv/CsvSort.cs#L7
+
+### MinMaxSum 
+https://github.com/GustavoMariano/Challenges-CSharp/blob/4994c8fa13f15a9ffb8a8e0e0d63d51748b1b319/MinMaxSum/Result.cs#L8
