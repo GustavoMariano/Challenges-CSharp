@@ -3,20 +3,21 @@ using System.Collections.Generic;
 
 namespace SortCsv
 {
-    /*
-     * Write a method that sorts the columns by the names of the columns alphabetically, and case-insensitive.
-     * 
-     * Original format:  
-     * Beth,Charles,Danielle,Adam,Eric\n17945,10091,10088,3907,10132\n2,12,13,48,11
-     *   
-     * Final format:  
-     * Adam,Beth,Charles,Danielle,Eric
-     * 17945,10091,10088,3907,10132
-     * 2,12,13,48,11
-     */
-
     public class MorseCode
     {
+        /*
+         * 
+         * Write a method that sorts the columns by the names of the columns alphabetically, and case-insensitive.
+         * 
+         * Original format:  
+         * Beth,Charles,Danielle,Adam,Eric\n17945,10091,10088,3907,10132\n2,12,13,48,11
+         *   
+         * Final format:  
+         * Adam,Beth,Charles,Danielle,Eric
+         * 17945,10091,10088,3907,10132
+         * 2,12,13,48,11
+         */
+
         public static string SortCsvColumns(string csvData)
         {
             var originalRows = csvData.Split('\n');
