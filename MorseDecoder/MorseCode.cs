@@ -8,7 +8,8 @@ namespace MorseDecoder
         //See the image "Morse Code Translator" that is in the project.
         //See the image "Morse Code Translator" that is in the project.
 
-        /* Background You've started work as morse code translator. Unfortunately some of the signals aren't as distinguishable as others and there are times where a . seems indistinguishable from -. In these cases you write down a ? so that you can figure out what all the posibilities of that letter for that word are later.
+        /* 
+         * Background You've started work as morse code translator. Unfortunately some of the signals aren't as distinguishable as others and there are times where a . seems indistinguishable from -. In these cases you write down a ? so that you can figure out what all the posibilities of that letter for that word are later.
          * Task Write a function possibilities that will take a string signals and return an array of possible characters that the Morse code signals could represent.
          * 
          * Specification Challenge.Possibilities(signals) Parameters signals: string - The Morse code signals that needs to be parsed. The may contain one or more unknown signals (?).

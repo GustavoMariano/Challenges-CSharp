@@ -6,7 +6,6 @@ namespace SortCsv
     public class MorseCode
     {
         /*
-         * 
          * Write a method that sorts the columns by the names of the columns alphabetically, and case-insensitive.
          * 
          * Original format:  
