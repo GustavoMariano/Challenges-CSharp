@@ -9,10 +9,10 @@ ___________
 ### COMENTS
 
 ### MORSE 
-https://github.com/GustavoMariano/Challenges-CSharp/blob/21cb421f6018c0b323a1c9562d46f8800f75d4e3/MorseDecoder/MorseCode.cs#L11
+https://github.com/GustavoMariano/Challenges-CSharp/blob/84189f84cdabca0e82a26a99a3ce0fab636bd307/MorseDecoder/MorseCode.cs#L12
 
 ### CSVSort 
-https://github.com/GustavoMariano/Challenges-CSharp/blob/21cb421f6018c0b323a1c9562d46f8800f75d4e3/SortCsv/CsvSort.cs#L7
+https://github.com/GustavoMariano/Challenges-CSharp/blob/84189f84cdabca0e82a26a99a3ce0fab636bd307/SortCsv/CsvSort.cs#L9
 
 ### MinMaxSum 
 https://github.com/GustavoMariano/Challenges-CSharp/blob/4994c8fa13f15a9ffb8a8e0e0d63d51748b1b319/MinMaxSum/Result.cs#L8
