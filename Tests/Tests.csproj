@@ -14,6 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\BirthdayCakeCandles\BirthdayCakeCandles.csproj" />
     <ProjectReference Include="..\MinMaxSum\MinMaxSum.csproj" />
     <ProjectReference Include="..\MorseDecoder\MorseDecoder.csproj" />
     <ProjectReference Include="..\SortCsv\SortCsv.csproj" />
