@@ -17,6 +17,7 @@
     <ProjectReference Include="..\BirthdayCakeCandles\BirthdayCakeCandles.csproj" />
     <ProjectReference Include="..\MinMaxSum\MinMaxSum.csproj" />
     <ProjectReference Include="..\MorseDecoder\MorseDecoder.csproj" />
+    <ProjectReference Include="..\QuotaPerMonth.RafaKowalski\QuotaPerMonth_RafaKowalski.csproj" />
     <ProjectReference Include="..\SortCsv\SortCsv.csproj" />
   </ItemGroup>
 

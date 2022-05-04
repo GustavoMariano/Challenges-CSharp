@@ -15,7 +15,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{33FB7402-5
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinMaxSum", "MinMaxSum\MinMaxSum.csproj", "{60684F63-A775-48FC-9261-A0F695E2EB92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthdayCakeCandles", "BirthdayCakeCandles\BirthdayCakeCandles.csproj", "{DB24AB65-267B-4D40-8EBC-2C729915737C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BirthdayCakeCandles", "BirthdayCakeCandles\BirthdayCakeCandles.csproj", "{DB24AB65-267B-4D40-8EBC-2C729915737C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuotaPerMonth_RafaKowalski", "QuotaPerMonth.RafaKowalski\QuotaPerMonth_RafaKowalski.csproj", "{FDB93CDD-673E-4DFD-AB1B-135DA894C7CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,6 +45,10 @@ Global
 		{DB24AB65-267B-4D40-8EBC-2C729915737C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB24AB65-267B-4D40-8EBC-2C729915737C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB24AB65-267B-4D40-8EBC-2C729915737C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDB93CDD-673E-4DFD-AB1B-135DA894C7CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDB93CDD-673E-4DFD-AB1B-135DA894C7CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDB93CDD-673E-4DFD-AB1B-135DA894C7CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDB93CDD-673E-4DFD-AB1B-135DA894C7CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -53,6 +59,7 @@ Global
 		{B70B083C-CF6C-48D9-A88B-C34A761D4ADE} = {33FB7402-57F8-4898-94FE-266B62071D53}
 		{60684F63-A775-48FC-9261-A0F695E2EB92} = {485DB4CC-A847-42A2-8835-FF6E86FCFDDB}
 		{DB24AB65-267B-4D40-8EBC-2C729915737C} = {485DB4CC-A847-42A2-8835-FF6E86FCFDDB}
+		{FDB93CDD-673E-4DFD-AB1B-135DA894C7CF} = {485DB4CC-A847-42A2-8835-FF6E86FCFDDB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8B02C552-EEE2-46BB-8945-65300D51D508}
