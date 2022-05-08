@@ -8,7 +8,7 @@ namespace BirthdayCakeCandles
      * candles = [4, 4, 1, 3]
      * The maximum height candles are 4 units high. There are 2 of them, so return 2.
      */
-    public class BdayCakeCandles
+    public class BirthdayCake
     {
         public static int birthdayCakeCandles(List<int> candles)
         {

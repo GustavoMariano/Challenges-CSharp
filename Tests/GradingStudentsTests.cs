@@ -2,50 +2,53 @@
 using NUnit.Framework;
 using System.Collections.Generic;
 
-[TestFixture]
-public class GradingStudentsTests
+namespace Challenges.Tests
 {
-    private List<int> grade;
-
-    [Test]
-    public void CaseOne()
+    [TestFixture]
+    public class GradingStudentsTests
     {
-        //Arrange
-        grade = new() { 73, 67, 38, 33 };
-        List<int> expectedResult = new() { 75, 67, 40, 33 };
+        private List<int> grade;
 
-        //Action
-        List<int> result = Solution.Calculate(grade);
+        [Test]
+        public void CaseOne()
+        {
+            //Arrange
+            grade = new() { 73, 67, 38, 33 };
+            List<int> expectedResult = new() { 75, 67, 40, 33 };
 
-        //Assert
-        Assert.AreEqual(expectedResult, result);
-    }
+            //Action
+            List<int> result = Grading.Calculate(grade);
 
-    [Test]
-    public void CaseTwo()
-    {
-        //Arrange
-        grade = new() { 55, 62, 48, 78 };
-        List<int> expectedResult = new() { 55, 62, 50, 80 };
+            //Assert
+            Assert.AreEqual(expectedResult, result);
+        }
 
-        //Action
-        List<int> result = Solution.Calculate(grade);
+        [Test]
+        public void CaseTwo()
+        {
+            //Arrange
+            grade = new() { 55, 62, 48, 78 };
+            List<int> expectedResult = new() { 55, 62, 50, 80 };
 
-        //Assert
-        Assert.AreEqual(expectedResult, result);
-    }
+            //Action
+            List<int> result = Grading.Calculate(grade);
 
-    [Test]
-    public void CaseThree()
-    {
-        //Arrange
-        grade = new() { 8, 43, 77, 99 };
-        List<int> expectedResult = new() { 8, 45, 77, 100 };
+            //Assert
+            Assert.AreEqual(expectedResult, result);
+        }
 
-        //Action
-        List<int> result = Solution.Calculate(grade);
+        [Test]
+        public void CaseThree()
+        {
+            //Arrange
+            grade = new() { 8, 43, 77, 99 };
+            List<int> expectedResult = new() { 8, 45, 77, 100 };
 
-        //Assert
-        Assert.AreEqual(expectedResult, result);
+            //Action
+            List<int> result = Grading.Calculate(grade);
+
+            //Assert
+            Assert.AreEqual(expectedResult, result);
+        }
     }
 }

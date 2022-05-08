@@ -2,7 +2,7 @@
 
 namespace GradingStudents
 {
-    public class Solution
+    public class Grading
     {
         /*
          * HackerLand University has the following grading policy:

@@ -1,11 +1,13 @@
 ﻿
+using System;
+
 namespace QuotaPerMonth_RafaKowalski
 {
     public class QuotaPerMonth
     {
-        public double Calculate(int month, double value)
+        public static double Calculate(int month, double value)
         {
-            return (value + CalcTax(month, value)) * 1.02;
+            return Math.Round((value + CalcTax(month, value)) * 1.02, 2);
         }
 
         private static double CalcTax(int month, double value)
