@@ -15,6 +15,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\BirthdayCakeCandles\BirthdayCakeCandles.csproj" />
+    <ProjectReference Include="..\BMICalculator\BMICalculator.csproj" />
     <ProjectReference Include="..\Fibonacci\FibonacciSequence.csproj" />
     <ProjectReference Include="..\GradingStudents\GradingStudents.csproj" />
     <ProjectReference Include="..\MinimalMovesToSolveTowerOfHanoi\MinimalMovesToSolveTowerOfHanoi.csproj" />
