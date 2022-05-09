@@ -21,6 +21,7 @@
     <ProjectReference Include="..\MinimalMovesToSolveTowerOfHanoi\MinimalMovesToSolveTowerOfHanoi.csproj" />
     <ProjectReference Include="..\MinMaxSum\MinMaxSum.csproj" />
     <ProjectReference Include="..\MorseDecoder\MorseDecoder.csproj" />
+    <ProjectReference Include="..\OddOrEvenVerificator\OddOrEvenVerificator.csproj" />
     <ProjectReference Include="..\QuotaPerMonth.RafaKowalski\QuotaPerMonth_RafaKowalski.csproj" />
     <ProjectReference Include="..\SortCsv\SortCsv.csproj" />
   </ItemGroup>
