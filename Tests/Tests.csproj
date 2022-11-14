@@ -18,6 +18,7 @@
     <ProjectReference Include="..\BMICalculator\BMICalculator.csproj" />
     <ProjectReference Include="..\Fibonacci\FibonacciSequence.csproj" />
     <ProjectReference Include="..\GradingStudents\GradingStudents.csproj" />
+    <ProjectReference Include="..\ManualDateValidation\ManualDateValidation.csproj" />
     <ProjectReference Include="..\MinimalMovesToSolveTowerOfHanoi\MinimalMovesToSolveTowerOfHanoi.csproj" />
     <ProjectReference Include="..\MinMaxSum\MinMaxSum.csproj" />
     <ProjectReference Include="..\MorseDecoder\MorseDecoder.csproj" />
