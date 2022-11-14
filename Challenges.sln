@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.32002.261
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortCsv", "SortCsv\SortCsv.csproj", "{3C1F50E5-A4D6-4F9B-AFCE-D9D0F3B08755}"
 EndProject
@@ -23,11 +23,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GradingStudents", "GradingS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimalMovesToSolveTowerOfHanoi", "MinimalMovesToSolveTowerOfHanoi\MinimalMovesToSolveTowerOfHanoi.csproj", "{7EA5AE76-D47B-4D3A-B0E7-7BDEE4EF4E96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciSequence", "Fibonacci\FibonacciSequence.csproj", "{0D205AE5-CC8D-452C-9EF9-4E4239F7A127}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FibonacciSequence", "Fibonacci\FibonacciSequence.csproj", "{0D205AE5-CC8D-452C-9EF9-4E4239F7A127}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMICalculator", "BMICalculator\BMICalculator.csproj", "{C8083DC3-739D-4F57-A8A4-9788A9486DD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BMICalculator", "BMICalculator\BMICalculator.csproj", "{C8083DC3-739D-4F57-A8A4-9788A9486DD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddOrEvenVerificator", "OddOrEvenVerificator\OddOrEvenVerificator.csproj", "{2F6A5CF8-9FE4-4E07-8CBF-7750F1C2248B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OddOrEvenVerificator", "OddOrEvenVerificator\OddOrEvenVerificator.csproj", "{2F6A5CF8-9FE4-4E07-8CBF-7750F1C2248B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleTypes", "TriangleTypes\TriangleTypes.csproj", "{CCDB075F-FD86-410C-A703-1B83C0596779}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -79,6 +81,10 @@ Global
 		{2F6A5CF8-9FE4-4E07-8CBF-7750F1C2248B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F6A5CF8-9FE4-4E07-8CBF-7750F1C2248B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F6A5CF8-9FE4-4E07-8CBF-7750F1C2248B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCDB075F-FD86-410C-A703-1B83C0596779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCDB075F-FD86-410C-A703-1B83C0596779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCDB075F-FD86-410C-A703-1B83C0596779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCDB075F-FD86-410C-A703-1B83C0596779}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -95,6 +101,7 @@ Global
 		{0D205AE5-CC8D-452C-9EF9-4E4239F7A127} = {485DB4CC-A847-42A2-8835-FF6E86FCFDDB}
 		{C8083DC3-739D-4F57-A8A4-9788A9486DD1} = {485DB4CC-A847-42A2-8835-FF6E86FCFDDB}
 		{2F6A5CF8-9FE4-4E07-8CBF-7750F1C2248B} = {485DB4CC-A847-42A2-8835-FF6E86FCFDDB}
+		{CCDB075F-FD86-410C-A703-1B83C0596779} = {485DB4CC-A847-42A2-8835-FF6E86FCFDDB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8B02C552-EEE2-46BB-8945-65300D51D508}

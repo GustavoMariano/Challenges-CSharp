@@ -24,6 +24,7 @@
     <ProjectReference Include="..\OddOrEvenVerificator\OddOrEvenVerificator.csproj" />
     <ProjectReference Include="..\QuotaPerMonth.RafaKowalski\QuotaPerMonth_RafaKowalski.csproj" />
     <ProjectReference Include="..\SortCsv\SortCsv.csproj" />
+    <ProjectReference Include="..\TriangleTypes\TriangleTypes.csproj" />
   </ItemGroup>
 
 </Project>
