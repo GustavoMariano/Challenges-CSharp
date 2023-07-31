@@ -23,7 +23,7 @@ namespace AWS_Test_HackerRank
 
             int total = 0;
             int countZero = 0;
-            int anterior = 0;
+            int previousNumber = 0;
             List<int> bulbsList = new List<int>();
 
             foreach (char number in bulbs)
@@ -31,7 +31,7 @@ namespace AWS_Test_HackerRank
 
             for (int i = 0; i < bulbsList.Count; i++)
             {
-                anterior = i - 1;
+                previousNumber = i - 1;
 
                 if (i == 0 && bulbsList[0] == 0 && bulbsList[1] == 0)
                 {
@@ -46,9 +46,9 @@ namespace AWS_Test_HackerRank
                     if (countZero == 3)
                     {
                         countZero = 1;
-                        bulbsList[anterior] = 1;
+                        bulbsList[previousNumber] = 1;
                     }
-                    if (bulbsList[i] == 0 && i == bulbsList.Count - 1 && bulbsList[anterior] == 0 && countZero == 2)
+                    if (bulbsList[i] == 0 && i == bulbsList.Count - 1 && bulbsList[previousNumber] == 0 && countZero == 2)
                         bulbsList[i] = 1;
                 }
                 else if (bulbsList[i] == 1)
