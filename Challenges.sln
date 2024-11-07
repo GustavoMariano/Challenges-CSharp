@@ -35,7 +35,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ManualDateValidation", "Man
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSTest", "AWS-Test\AWSTest.csproj", "{62FDDD8D-7696-4706-A4F6-5FF0721CDFC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevelopmentLogicAssessment", "DevelopmentLogicAssessment\DevelopmentLogicAssessment.csproj", "{F4B28CDA-0B20-4189-BBFE-0AB59B2243A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevelopmentLogicAssessment", "DevelopmentLogicAssessment\DevelopmentLogicAssessment.csproj", "{F4B28CDA-0B20-4189-BBFE-0AB59B2243A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThingsInverter", "ThingsInverter\ThingsInverter.csproj", "{A6EB2320-6956-4004-BE97-B6C30C568674}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -103,6 +105,10 @@ Global
 		{F4B28CDA-0B20-4189-BBFE-0AB59B2243A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4B28CDA-0B20-4189-BBFE-0AB59B2243A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4B28CDA-0B20-4189-BBFE-0AB59B2243A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6EB2320-6956-4004-BE97-B6C30C568674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6EB2320-6956-4004-BE97-B6C30C568674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6EB2320-6956-4004-BE97-B6C30C568674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6EB2320-6956-4004-BE97-B6C30C568674}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -123,6 +129,7 @@ Global
 		{611F0185-E358-40C6-A305-ABC34D5BA912} = {485DB4CC-A847-42A2-8835-FF6E86FCFDDB}
 		{62FDDD8D-7696-4706-A4F6-5FF0721CDFC5} = {485DB4CC-A847-42A2-8835-FF6E86FCFDDB}
 		{F4B28CDA-0B20-4189-BBFE-0AB59B2243A2} = {485DB4CC-A847-42A2-8835-FF6E86FCFDDB}
+		{A6EB2320-6956-4004-BE97-B6C30C568674} = {485DB4CC-A847-42A2-8835-FF6E86FCFDDB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8B02C552-EEE2-46BB-8945-65300D51D508}
