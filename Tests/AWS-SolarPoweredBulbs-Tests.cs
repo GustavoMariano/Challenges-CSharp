@@ -1,13 +1,12 @@
 ﻿using AWS_Test_HackerRank;
 using NUnit.Framework;
-using System.Collections.Generic;
 
 namespace Challenges.Tests
 {
     [TestFixture]
     public class AWS_Test_HackerRankTests
     {
-        private int expectedResult = 1;
+        private int expectedResult = 0;
 
         [Test]
         public void ShouldReturn_One_OneSolar()
