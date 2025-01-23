@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopKFrequentElements", "Top
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseOnlyLetters", "ReverseOnlyLetters\ReverseOnlyLetters.csproj", "{9EC79262-01EF-4EA0-AF5C-0918095D160E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberAsArraySum", "NumberAsArraySum\NumberAsArraySum.csproj", "{F1158AAE-5B84-40E5-A931-362AE864A3FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -133,6 +135,10 @@ Global
 		{9EC79262-01EF-4EA0-AF5C-0918095D160E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9EC79262-01EF-4EA0-AF5C-0918095D160E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9EC79262-01EF-4EA0-AF5C-0918095D160E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1158AAE-5B84-40E5-A931-362AE864A3FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1158AAE-5B84-40E5-A931-362AE864A3FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1158AAE-5B84-40E5-A931-362AE864A3FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1158AAE-5B84-40E5-A931-362AE864A3FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -158,6 +164,7 @@ Global
 		{DADCE37E-6687-465E-9C26-82DB4CC90774} = {485DB4CC-A847-42A2-8835-FF6E86FCFDDB}
 		{8F77E0E2-8CFC-4C29-9F18-25E54B571BB0} = {485DB4CC-A847-42A2-8835-FF6E86FCFDDB}
 		{9EC79262-01EF-4EA0-AF5C-0918095D160E} = {485DB4CC-A847-42A2-8835-FF6E86FCFDDB}
+		{F1158AAE-5B84-40E5-A931-362AE864A3FB} = {485DB4CC-A847-42A2-8835-FF6E86FCFDDB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8B02C552-EEE2-46BB-8945-65300D51D508}
