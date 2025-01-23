@@ -19,15 +19,18 @@
     <ProjectReference Include="..\BMICalculator\BMICalculator.csproj" />
     <ProjectReference Include="..\Fibonacci\FibonacciSequence.csproj" />
     <ProjectReference Include="..\GradingStudents\GradingStudents.csproj" />
+    <ProjectReference Include="..\LongestConsecutiveSequence\LongestConsecutiveSequence.csproj" />
     <ProjectReference Include="..\ManualDateValidation\ManualDateValidation.csproj" />
     <ProjectReference Include="..\MinimalMovesToSolveTowerOfHanoi\MinimalMovesToSolveTowerOfHanoi.csproj" />
     <ProjectReference Include="..\MinMaxSum\MinMaxSum.csproj" />
     <ProjectReference Include="..\MorseDecoder\MorseDecoder.csproj" />
     <ProjectReference Include="..\OddOrEvenVerificator\OddOrEvenVerificator.csproj" />
     <ProjectReference Include="..\QuotaPerMonth.RafaKowalski\QuotaPerMonth_RafaKowalski.csproj" />
+    <ProjectReference Include="..\ReverseOnlyLetters\ReverseOnlyLetters.csproj" />
     <ProjectReference Include="..\SortCsv\SortCsv.csproj" />
     <ProjectReference Include="..\SudokuValidation\SudokuValidation.csproj" />
     <ProjectReference Include="..\ThingsInverter\ThingsInverter.csproj" />
+    <ProjectReference Include="..\TopKFrequentElements\TopKFrequentElements.csproj" />
     <ProjectReference Include="..\TriangleTypes\TriangleTypes.csproj" />
   </ItemGroup>
 
