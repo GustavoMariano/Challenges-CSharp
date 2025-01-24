@@ -1,21 +1,48 @@
-# Challenges-CSharp
-___________
-### Just a repository with solutions to algorithmic challenges.
-___________
+# 💻 Coding Challenges Repository
 
-### Read the comment in the Class of each project.
+This repository is a comprehensive collection of diverse coding challenges and problem-solving implementations. It serves as a resource for developers to practice, improve skills, and explore algorithmic and logical problems. The solutions cover various platforms, techniques, and problem categories, ensuring an enriching learning experience.
 
-___________
-### COMENTS
+## 🚀 Technologies and Languages
+- **C# .NET 5** 
 
-### MORSE 
-https://github.com/GustavoMariano/Challenges-CSharp/blob/84189f84cdabca0e82a26a99a3ce0fab636bd307/MorseDecoder/MorseCode.cs#L12
+## 🎯 Purpose
+This repository serves as:
+- A reference for solving coding challenges across multiple platforms.
+- A resource for practicing data structures, algorithms, and optimization techniques.
+- A tool to prepare for technical interviews and competitions.
 
-### CSVSort 
-https://github.com/GustavoMariano/Challenges-CSharp/blob/84189f84cdabca0e82a26a99a3ce0fab636bd307/SortCsv/CsvSort.cs#L9
+## 🌟 How to Use
+1. Explore the folders organized by difficulty or platform.
+2. Study the code to understand the logic and optimization techniques.
+3. Run the code with different test cases locally.
+4. Compare various approaches to find the most efficient solution.
 
-### MinMaxSum 
-https://github.com/GustavoMariano/Challenges-CSharp/blob/4994c8fa13f15a9ffb8a8e0e0d63d51748b1b319/MinMaxSum/Result.cs#L8
+## 📈 Examples of Solved Problems
+- AWS-Test: Focused on AWS-related scenarios and problem-solving.
+- BMICalculator: Calculates Body Mass Index with an algorithmic approach.
+- BirthdayCakeCandles: A classic problem involving counting candles on a cake.
+- DevelopmentLogicAssessment: Includes logic-based problems designed for assessments.
+- Fibonacci: Generates Fibonacci sequences programmatically.
+- GradingStudents: Algorithm for grading with specific rounding logic.
+- LongestConsecutiveSequence: Implementation of LeetCode's problem-solving.
+- ManualDateValidation: Custom date validation logic.
+- MinMaxSum: Calculates the minimum and maximum sums of array subsets.
+- MinimalMovesToSolveTowerOfHanoi: Recursive algorithm to solve the Tower of Hanoi puzzle.
+- MorseDecoder: Decodes Morse code strings into readable text.
+- NumberAsArraySum: Handles summation with numbers represented as arrays.
+- OddOrEvenVerificator: Identifies whether a number is odd or even.
+- QuotaPerMonth.RafaKowalski: Project quota calculation logic.
+- ReverseOnlyLetters: Reverses letters in a string while maintaining non-letter positions.
+- SortCsv: Organizes CSV data through sorting algorithms.
+- SudokuValidation: Validates Sudoku puzzles against rules.
+- Tests: A collection of utility tests for validation and debugging.
+- ThingsInverter: Binary Tree inversion algorithm.
+- TopKFrequentElements: Finds the top K most frequent elements in a dataset.
+- TriangleTypes: Determines the type of a triangle based on its sides.
 
-### GradingStudents 
-https://github.com/GustavoMariano/Challenges-CSharp/blob/a58945d6d3290498f91058de3b32da87d678ddc7/GradingStudents/Solution.cs#L8
+## 🔗 Useful Resources
+- [LeetCode](https://leetcode.com)
+- [HackerRank](https://www.hackerrank.com)
+
+## 📝 License
+This project is licensed under the MIT License. Use it for educational purposes and personal development.
