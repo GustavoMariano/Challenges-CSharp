@@ -27,6 +27,7 @@
     <ProjectReference Include="..\MorseDecoder\MorseDecoder.csproj" />
     <ProjectReference Include="..\NumberAsArraySum\NumberAsArraySum.csproj" />
     <ProjectReference Include="..\OddOrEvenVerificator\OddOrEvenVerificator.csproj" />
+    <ProjectReference Include="..\QuicksortAlgorithm\QuicksortAlgorithm.csproj" />
     <ProjectReference Include="..\QuotaPerMonth.RafaKowalski\QuotaPerMonth_RafaKowalski.csproj" />
     <ProjectReference Include="..\ReverseOnlyLetters\ReverseOnlyLetters.csproj" />
     <ProjectReference Include="..\SortCsv\SortCsv.csproj" />
