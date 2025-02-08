@@ -22,6 +22,7 @@
     <ProjectReference Include="..\GradingStudents\GradingStudents.csproj" />
     <ProjectReference Include="..\LongestBeautifulSubstring\LongestBeautifulSubstring.csproj" />
     <ProjectReference Include="..\LongestConsecutiveSequence\LongestConsecutiveSequence.csproj" />
+    <ProjectReference Include="..\LongestSubstringWithoutRepeatingCharacters\LongestSubstringWithoutRepeatingCharacters.csproj" />
     <ProjectReference Include="..\ManualDateValidation\ManualDateValidation.csproj" />
     <ProjectReference Include="..\MinimalMovesToSolveTowerOfHanoi\MinimalMovesToSolveTowerOfHanoi.csproj" />
     <ProjectReference Include="..\MinMaxSum\MinMaxSum.csproj" />
