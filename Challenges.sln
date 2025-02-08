@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestBeautifulSubstring",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuicksortAlgorithm", "QuicksortAlgorithm\QuicksortAlgorithm.csproj", "{CE9966F6-1C7C-42AD-ADD5-B34C6EE6BEE2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddTwoNumbers", "AddTwoNumbers\AddTwoNumbers.csproj", "{310A9EE0-DBB8-4F53-A72B-8FF90310DD93}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -151,6 +153,10 @@ Global
 		{CE9966F6-1C7C-42AD-ADD5-B34C6EE6BEE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE9966F6-1C7C-42AD-ADD5-B34C6EE6BEE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE9966F6-1C7C-42AD-ADD5-B34C6EE6BEE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{310A9EE0-DBB8-4F53-A72B-8FF90310DD93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{310A9EE0-DBB8-4F53-A72B-8FF90310DD93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{310A9EE0-DBB8-4F53-A72B-8FF90310DD93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{310A9EE0-DBB8-4F53-A72B-8FF90310DD93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -179,6 +185,7 @@ Global
 		{F1158AAE-5B84-40E5-A931-362AE864A3FB} = {485DB4CC-A847-42A2-8835-FF6E86FCFDDB}
 		{1E5FD613-3764-4113-9F8B-B081C6824BBF} = {485DB4CC-A847-42A2-8835-FF6E86FCFDDB}
 		{CE9966F6-1C7C-42AD-ADD5-B34C6EE6BEE2} = {485DB4CC-A847-42A2-8835-FF6E86FCFDDB}
+		{310A9EE0-DBB8-4F53-A72B-8FF90310DD93} = {485DB4CC-A847-42A2-8835-FF6E86FCFDDB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8B02C552-EEE2-46BB-8945-65300D51D508}
