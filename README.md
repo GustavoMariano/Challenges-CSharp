@@ -1,48 +1,37 @@
-# 💻 Coding Challenges Repository
+# 💻 Challenges-CSharp: Coding Challenges Repository
 
-This repository is a comprehensive collection of diverse coding challenges and problem-solving implementations. It serves as a resource for developers to practice, improve skills, and explore algorithmic and logical problems. The solutions cover various platforms, techniques, and problem categories, ensuring an enriching learning experience.
+A curated collection of coding challenges and algorithmic solutions implemented in C#. This repository is designed to help developers practice problem-solving, prepare for technical interviews, and master data structures and algorithms.
 
-## 🚀 Technologies and Languages
-- **C# .NET 5** 
+## 🚀 Technologies Used
+- **C#** with **.NET 5**  
+- Platforms: [HackerRank](https://www.hackerrank.com), [LeetCode](https://leetcode.com)
 
 ## 🎯 Purpose
-This repository serves as:
-- A reference for solving coding challenges across multiple platforms.
-- A resource for practicing data structures, algorithms, and optimization techniques.
-- A tool to prepare for technical interviews and competitions.
+- Solve coding challenges from platforms like HackerRank and LeetCode.
+- Practice and improve skills in algorithms, data structures, and code optimization.
+- Prepare for technical interviews and coding competitions.
 
-## 🌟 How to Use
-1. Explore the folders organized by difficulty or platform.
-2. Study the code to understand the logic and optimization techniques.
-3. Run the code with different test cases locally.
-4. Compare various approaches to find the most efficient solution.
+## 🌟 Key Features
+- **20+ Challenges Solved**: Covering a wide range of topics, from basic to advanced.
+- **Organized by Topic**: Problems are categorized for easy navigation.
+- **Well-Documented Solutions**: Each solution includes explanations and test cases.
 
-## 📈 Examples of Solved Problems
-- AWS-Test: Focused on AWS-related scenarios and problem-solving.
-- BMICalculator: Calculates Body Mass Index with an algorithmic approach.
-- BirthdayCakeCandles: A classic problem involving counting candles on a cake.
-- DevelopmentLogicAssessment: Includes logic-based problems designed for assessments.
-- Fibonacci: Generates Fibonacci sequences programmatically.
-- GradingStudents: Algorithm for grading with specific rounding logic.
-- LongestConsecutiveSequence: Implementation of LeetCode's problem-solving.
-- ManualDateValidation: Custom date validation logic.
-- MinMaxSum: Calculates the minimum and maximum sums of array subsets.
-- MinimalMovesToSolveTowerOfHanoi: Recursive algorithm to solve the Tower of Hanoi puzzle.
-- MorseDecoder: Decodes Morse code strings into readable text.
-- NumberAsArraySum: Handles summation with numbers represented as arrays.
-- OddOrEvenVerificator: Identifies whether a number is odd or even.
-- QuotaPerMonth.RafaKowalski: Project quota calculation logic.
-- ReverseOnlyLetters: Reverses letters in a string while maintaining non-letter positions.
-- SortCsv: Organizes CSV data through sorting algorithms.
-- SudokuValidation: Validates Sudoku puzzles against rules.
-- Tests: A collection of utility tests for validation and debugging.
-- ThingsInverter: Binary Tree inversion algorithm.
-- TopKFrequentElements: Finds the top K most frequent elements in a dataset.
-- TriangleTypes: Determines the type of a triangle based on its sides.
+## 📈 Highlighted Problems
+- **MorseDecoder**: Decodes Morse code into readable text.
+- **SudokuValidation**: Validates Sudoku puzzles against standard rules.
+- **Fibonacci**: Implements an efficient Fibonacci sequence generator.
+- **LongestConsecutiveSequence**: Solves LeetCode's problem on finding consecutive sequences.
+- **TopKFrequentElements**: Identifies the top K most frequent elements in a dataset.
+
+## 🛠️ How to Use
+1. Navigate to the folders organized by problem type or platform.
+2. Review the code and comments to understand the logic and approach.
+3. Test the solutions locally with different inputs.
+4. Compare multiple solutions to learn optimization techniques.
 
 ## 🔗 Useful Resources
-- [LeetCode](https://leetcode.com)
-- [HackerRank](https://www.hackerrank.com)
+- [HackerRank](https://www.hackerrank.com) - Practice coding challenges.
+- [LeetCode](https://leetcode.com) - Prepare for technical interviews.
 
 ## 📝 License
-This project is licensed under the MIT License. Use it for educational purposes and personal development.
+This project is licensed under the [MIT License](LICENSE). Feel free to use it for educational purposes and personal development.
