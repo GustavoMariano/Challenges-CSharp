@@ -34,6 +34,7 @@
     <ProjectReference Include="..\ReverseOnlyLetters\ReverseOnlyLetters.csproj" />
     <ProjectReference Include="..\SortCsv\SortCsv.csproj" />
     <ProjectReference Include="..\SudokuValidation\SudokuValidation.csproj" />
+    <ProjectReference Include="..\SumOfTwoArrays\SumOfTwoArrays.csproj" />
     <ProjectReference Include="..\ThingsInverter\ThingsInverter.csproj" />
     <ProjectReference Include="..\TopKFrequentElements\TopKFrequentElements.csproj" />
     <ProjectReference Include="..\TriangleTypes\TriangleTypes.csproj" />
