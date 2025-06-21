@@ -19,6 +19,7 @@
     <ProjectReference Include="..\BirthdayCakeCandles\BirthdayCakeCandles.csproj" />
     <ProjectReference Include="..\BMICalculator\BMICalculator.csproj" />
     <ProjectReference Include="..\Fibonacci\FibonacciSequence.csproj" />
+    <ProjectReference Include="..\FizzBuzz\FizzBuzz.csproj" />
     <ProjectReference Include="..\GradingStudents\GradingStudents.csproj" />
     <ProjectReference Include="..\GrayCode\GrayCode.csproj" />
     <ProjectReference Include="..\LongestBeautifulSubstring\LongestBeautifulSubstring.csproj" />
