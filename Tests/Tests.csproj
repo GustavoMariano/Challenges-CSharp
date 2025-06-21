@@ -20,6 +20,7 @@
     <ProjectReference Include="..\BMICalculator\BMICalculator.csproj" />
     <ProjectReference Include="..\Fibonacci\FibonacciSequence.csproj" />
     <ProjectReference Include="..\GradingStudents\GradingStudents.csproj" />
+    <ProjectReference Include="..\GrayCode\GrayCode.csproj" />
     <ProjectReference Include="..\LongestBeautifulSubstring\LongestBeautifulSubstring.csproj" />
     <ProjectReference Include="..\LongestConsecutiveSequence\LongestConsecutiveSequence.csproj" />
     <ProjectReference Include="..\LongestSubstringWithoutRepeatingCharacters\LongestSubstringWithoutRepeatingCharacters.csproj" />
