@@ -18,6 +18,7 @@
     <ProjectReference Include="..\AWS-Test\AWSTest.csproj" />
     <ProjectReference Include="..\BirthdayCakeCandles\BirthdayCakeCandles.csproj" />
     <ProjectReference Include="..\BMICalculator\BMICalculator.csproj" />
+    <ProjectReference Include="..\CountingRepeatedNumbersInAList\CountingRepeatedNumbersInAList.csproj" />
     <ProjectReference Include="..\Fibonacci\FibonacciSequence.csproj" />
     <ProjectReference Include="..\FizzBuzz\FizzBuzz.csproj" />
     <ProjectReference Include="..\GradingStudents\GradingStudents.csproj" />
