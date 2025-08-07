@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingRepeatedNumbersInAList", "CountingRepeatedNumbersInAList\CountingRepeatedNumbersInAList.csproj", "{C2320B62-8C9E-43AA-B2FA-44001ED08BA2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchingChallenge", "SearchingChallenge\SearchingChallenge.csproj", "{7870335F-6565-475A-A9CF-6B271B2F5E50}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -187,6 +189,10 @@ Global
 		{C2320B62-8C9E-43AA-B2FA-44001ED08BA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2320B62-8C9E-43AA-B2FA-44001ED08BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2320B62-8C9E-43AA-B2FA-44001ED08BA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7870335F-6565-475A-A9CF-6B271B2F5E50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7870335F-6565-475A-A9CF-6B271B2F5E50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7870335F-6565-475A-A9CF-6B271B2F5E50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7870335F-6565-475A-A9CF-6B271B2F5E50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -221,6 +227,7 @@ Global
 		{69E1B0FF-C099-4BB4-994F-91C76DE4AD82} = {485DB4CC-A847-42A2-8835-FF6E86FCFDDB}
 		{5FA57A3C-358E-40D7-8E93-CEDF6C6F0F6D} = {485DB4CC-A847-42A2-8835-FF6E86FCFDDB}
 		{C2320B62-8C9E-43AA-B2FA-44001ED08BA2} = {485DB4CC-A847-42A2-8835-FF6E86FCFDDB}
+		{7870335F-6565-475A-A9CF-6B271B2F5E50} = {485DB4CC-A847-42A2-8835-FF6E86FCFDDB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8B02C552-EEE2-46BB-8945-65300D51D508}

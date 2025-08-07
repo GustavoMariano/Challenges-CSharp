@@ -35,6 +35,7 @@
     <ProjectReference Include="..\QuicksortAlgorithm\QuicksortAlgorithm.csproj" />
     <ProjectReference Include="..\QuotaPerMonth.RafaKowalski\QuotaPerMonth_RafaKowalski.csproj" />
     <ProjectReference Include="..\ReverseOnlyLetters\ReverseOnlyLetters.csproj" />
+    <ProjectReference Include="..\SearchingChallenge\SearchingChallenge.csproj" />
     <ProjectReference Include="..\SortCsv\SortCsv.csproj" />
     <ProjectReference Include="..\SudokuValidation\SudokuValidation.csproj" />
     <ProjectReference Include="..\SumOfTwoArrays\SumOfTwoArrays.csproj" />

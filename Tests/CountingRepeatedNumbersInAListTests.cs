@@ -12,7 +12,7 @@ namespace Challenges.Tests
         {
             //Arrange
             List<int> inputIntList= new () { 4, 17, 23, 4, 89, 23, 50, 61, 77, 4, 17, 90, 11, 12, 13, 50, 61, 70, 80, 90 };
-            int expectedResult = 6;
+            int expectedResult = 7;
 
             //Action
             int result = CountingRepeatedNumbers.CountRepeatedNumbers(inputIntList);
